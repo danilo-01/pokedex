@@ -1,0 +1,4 @@
+.pokecard {
+    display: flex;
+    background-color: rgba(155, 155, 155, 0.651);
+}
